@@ -91,13 +91,20 @@
   }
   @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Poppins:wght@300&display=swap');
   .card:hover{
-      background-color:#6a9b69
+      background-color:#6a9b69;
+      display:flex;
+      transform: scale(1.2);
+      
   }
   .card1:hover{
-      background-color:#6a9b69
+      background-color:#6a9b69;
+      display:flex;
+      transform: scale(1.2);
   }
   .card2:hover{
-      background-color:#6a9b69
+      background-color:#6a9b69;
+      display:flex;
+      transform: scale(1.2);
   }
   
   .card{
